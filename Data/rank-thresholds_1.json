@@ -1,0 +1,41 @@
+{
+  "logged_at": "2026-07-09T01:58:06.114383+00:00",
+  "total_players": 416900,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 65000,
+      "players_qualified": 40640
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 47500,
+      "players_qualified": 65193
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 32000,
+      "players_qualified": 138335
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 22000,
+      "players_qualified": 204796
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 10000,
+      "players_qualified": 276190
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 4000,
+      "players_qualified": 325288
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 2000,
+      "players_qualified": 350618
+    }
+  ]
+}

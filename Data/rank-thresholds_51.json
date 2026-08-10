@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-10T15:55:55.005501+00:00",
+  "total_players": 22725,
+  "total_players_change": 2800,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 1940,
+      "players_qualified": 228,
+      "players_qualified_change": 28
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 1380,
+      "players_qualified": 2273,
+      "players_qualified_change": 280
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 1140,
+      "players_qualified": 4545,
+      "players_qualified_change": 560
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 830,
+      "players_qualified": 9090,
+      "players_qualified_change": 1120
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 600,
+      "players_qualified": 13635,
+      "players_qualified_change": 1680
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 390,
+      "players_qualified": 18180,
+      "players_qualified_change": 2240
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 180,
+      "players_qualified": 22725,
+      "players_qualified_change": 2800
+    }
+  ],
+  "top_player": {
+    "player_name": "prada",
+    "points": 2730
+  }
+}

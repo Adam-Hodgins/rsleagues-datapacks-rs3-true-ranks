@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-10T17:25:49.732885+00:00",
-  "total_players": 30750,
-  "total_players_change": 2800,
+  "logged_at": "2026-08-10T17:55:51.225400+00:00",
+  "total_players": 33050,
+  "total_players_change": 2300,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 2690,
-      "players_qualified": 308,
-      "players_qualified_change": 28
+      "point_cutoff": 2880,
+      "players_qualified": 331,
+      "players_qualified_change": 23
     },
     {
       "name": "Rune",
-      "point_cutoff": 1810,
-      "players_qualified": 3075,
-      "players_qualified_change": 280
+      "point_cutoff": 1940,
+      "players_qualified": 3305,
+      "players_qualified_change": 230
     },
     {
       "name": "Adamant",
-      "point_cutoff": 1430,
-      "players_qualified": 6150,
-      "players_qualified_change": 560
+      "point_cutoff": 1520,
+      "players_qualified": 6610,
+      "players_qualified_change": 460
     },
     {
       "name": "Mithril",
-      "point_cutoff": 1010,
-      "players_qualified": 12300,
-      "players_qualified_change": 1120
+      "point_cutoff": 1050,
+      "players_qualified": 13220,
+      "players_qualified_change": 920
     },
     {
       "name": "Steel",
-      "point_cutoff": 720,
-      "players_qualified": 18450,
-      "players_qualified_change": 1680
+      "point_cutoff": 750,
+      "players_qualified": 19830,
+      "players_qualified_change": 1380
     },
     {
       "name": "Iron",
-      "point_cutoff": 430,
-      "players_qualified": 24600,
-      "players_qualified_change": 2240
+      "point_cutoff": 450,
+      "players_qualified": 26440,
+      "players_qualified_change": 1840
     },
     {
       "name": "Bronze",
-      "point_cutoff": 160,
-      "players_qualified": 30750,
-      "players_qualified_change": 2800
+      "point_cutoff": 150,
+      "players_qualified": 33050,
+      "players_qualified_change": 2300
     }
   ],
   "top_player": {
-    "player_name": "prada",
-    "points": 3880
+    "player_name": "Mistime",
+    "points": 4450
   }
 }

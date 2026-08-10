@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-10T14:25:31.827633+00:00",
+  "total_players": 15425,
+  "total_players_change": 2975,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 1120,
+      "players_qualified": 155,
+      "players_qualified_change": 30
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 960,
+      "players_qualified": 1543,
+      "players_qualified_change": 298
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 800,
+      "players_qualified": 3085,
+      "players_qualified_change": 595
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 580,
+      "players_qualified": 6170,
+      "players_qualified_change": 1190
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 410,
+      "players_qualified": 9255,
+      "players_qualified_change": 1785
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 260,
+      "players_qualified": 12340,
+      "players_qualified_change": 2380
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 15425,
+      "players_qualified_change": 2975
+    }
+  ],
+  "top_player": {
+    "player_name": "Fuzzy Chunks",
+    "points": 1890
+  }
+}

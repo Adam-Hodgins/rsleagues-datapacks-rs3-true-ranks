@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-10T22:56:03.425694+00:00",
-  "total_players": 50000,
-  "total_players_change": 1800,
+  "logged_at": "2026-08-10T23:26:02.249991+00:00",
+  "total_players": 51475,
+  "total_players_change": 1475,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 4270,
-      "players_qualified": 500,
-      "players_qualified_change": 18
+      "point_cutoff": 4350,
+      "players_qualified": 515,
+      "players_qualified_change": 15
     },
     {
       "name": "Rune",
-      "point_cutoff": 2960,
-      "players_qualified": 5000,
-      "players_qualified_change": 180
+      "point_cutoff": 3060,
+      "players_qualified": 5148,
+      "players_qualified_change": 148
     },
     {
       "name": "Adamant",
-      "point_cutoff": 2180,
-      "players_qualified": 10000,
-      "players_qualified_change": 360
+      "point_cutoff": 2360,
+      "players_qualified": 10295,
+      "players_qualified_change": 295
     },
     {
       "name": "Mithril",
-      "point_cutoff": 1660,
-      "players_qualified": 20000,
-      "players_qualified_change": 720
+      "point_cutoff": 1720,
+      "players_qualified": 20590,
+      "players_qualified_change": 590
     },
     {
       "name": "Steel",
-      "point_cutoff": 1080,
-      "players_qualified": 30000,
-      "players_qualified_change": 1080
+      "point_cutoff": 1110,
+      "players_qualified": 30885,
+      "players_qualified_change": 885
     },
     {
       "name": "Iron",
-      "point_cutoff": 640,
-      "players_qualified": 40000,
-      "players_qualified_change": 1440
+      "point_cutoff": 650,
+      "players_qualified": 41180,
+      "players_qualified_change": 1180
     },
     {
       "name": "Bronze",
-      "point_cutoff": 140,
-      "players_qualified": 50000,
-      "players_qualified_change": 1800
+      "point_cutoff": 160,
+      "players_qualified": 51475,
+      "players_qualified_change": 1475
     }
   ],
   "top_player": {
-    "player_name": "Mistrock",
-    "points": 7720
+    "player_name": "Geckomon",
+    "points": 8190
   }
 }

@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-10T21:56:06.167327+00:00",
+  "total_players": 46850,
+  "total_players_change": 1900,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 3920,
+      "players_qualified": 469,
+      "players_qualified_change": 19
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 2760,
+      "players_qualified": 4685,
+      "players_qualified_change": 190
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 2260,
+      "players_qualified": 9370,
+      "players_qualified_change": 380
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 1520,
+      "players_qualified": 18740,
+      "players_qualified_change": 760
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 1020,
+      "players_qualified": 28110,
+      "players_qualified_change": 1140
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 600,
+      "players_qualified": 37480,
+      "players_qualified_change": 1520
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 170,
+      "players_qualified": 46850,
+      "players_qualified_change": 1900
+    }
+  ],
+  "top_player": {
+    "player_name": "Mistrock",
+    "points": 7720
+  }
+}

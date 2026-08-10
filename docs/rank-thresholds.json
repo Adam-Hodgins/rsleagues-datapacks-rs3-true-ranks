@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-10T12:32:53.936305+00:00",
-  "total_players": 1025,
-  "total_players_change": -119918,
+  "logged_at": "2026-08-10T12:55:26.382575+00:00",
+  "total_players": 5550,
+  "total_players_change": 4525,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 360,
-      "players_qualified": 11,
-      "players_qualified_change": -1199
+      "point_cutoff": 500,
+      "players_qualified": 56,
+      "players_qualified_change": 45
     },
     {
       "name": "Rune",
-      "point_cutoff": 330,
-      "players_qualified": 103,
-      "players_qualified_change": -11992
+      "point_cutoff": 580,
+      "players_qualified": 555,
+      "players_qualified_change": 452
     },
     {
       "name": "Adamant",
-      "point_cutoff": 230,
-      "players_qualified": 205,
-      "players_qualified_change": -23984
+      "point_cutoff": 440,
+      "players_qualified": 1110,
+      "players_qualified_change": 905
     },
     {
       "name": "Mithril",
-      "point_cutoff": 310,
-      "players_qualified": 410,
-      "players_qualified_change": -47968
+      "point_cutoff": 340,
+      "players_qualified": 2220,
+      "players_qualified_change": 1810
     },
     {
       "name": "Steel",
-      "point_cutoff": 270,
-      "players_qualified": 615,
-      "players_qualified_change": -71951
+      "point_cutoff": 250,
+      "players_qualified": 3330,
+      "players_qualified_change": 2715
     },
     {
       "name": "Iron",
-      "point_cutoff": 130,
-      "players_qualified": 820,
-      "players_qualified_change": -95935
+      "point_cutoff": 180,
+      "players_qualified": 4440,
+      "players_qualified_change": 3620
     },
     {
       "name": "Bronze",
-      "point_cutoff": 110,
-      "players_qualified": 1025,
-      "players_qualified_change": -119918
+      "point_cutoff": 100,
+      "players_qualified": 5550,
+      "players_qualified_change": 4525
     }
   ],
   "top_player": {
-    "player_name": "IronCasus",
-    "points": 500
+    "player_name": "prada",
+    "points": 930
   }
 }

@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-10T19:56:00.197789+00:00",
+  "total_players": 39925,
+  "total_players_change": 1300,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 3540,
+      "players_qualified": 400,
+      "players_qualified_change": 13
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 2410,
+      "players_qualified": 3993,
+      "players_qualified_change": 130
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 1930,
+      "players_qualified": 7985,
+      "players_qualified_change": 260
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 1290,
+      "players_qualified": 15970,
+      "players_qualified_change": 520
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 890,
+      "players_qualified": 23955,
+      "players_qualified_change": 780
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 530,
+      "players_qualified": 31940,
+      "players_qualified_change": 1040
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 190,
+      "players_qualified": 39925,
+      "players_qualified_change": 1300
+    }
+  ],
+  "top_player": {
+    "player_name": "Geckomon",
+    "points": 6520
+  }
+}

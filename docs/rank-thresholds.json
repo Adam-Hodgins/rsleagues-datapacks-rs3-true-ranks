@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-10T20:25:48.934364+00:00",
-  "total_players": 41650,
-  "total_players_change": 1725,
+  "logged_at": "2026-08-10T20:56:14.623456+00:00",
+  "total_players": 43550,
+  "total_players_change": 1900,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 3640,
-      "players_qualified": 417,
-      "players_qualified_change": 17
+      "point_cutoff": 3770,
+      "players_qualified": 436,
+      "players_qualified_change": 19
     },
     {
       "name": "Rune",
-      "point_cutoff": 2490,
-      "players_qualified": 4165,
-      "players_qualified_change": 172
+      "point_cutoff": 2580,
+      "players_qualified": 4355,
+      "players_qualified_change": 190
     },
     {
       "name": "Adamant",
-      "point_cutoff": 1990,
-      "players_qualified": 8330,
-      "players_qualified_change": 345
+      "point_cutoff": 2100,
+      "players_qualified": 8710,
+      "players_qualified_change": 380
     },
     {
       "name": "Mithril",
-      "point_cutoff": 1340,
-      "players_qualified": 16660,
-      "players_qualified_change": 690
+      "point_cutoff": 1400,
+      "players_qualified": 17420,
+      "players_qualified_change": 760
     },
     {
       "name": "Steel",
-      "point_cutoff": 920,
-      "players_qualified": 24990,
-      "players_qualified_change": 1035
+      "point_cutoff": 890,
+      "players_qualified": 26130,
+      "players_qualified_change": 1140
     },
     {
       "name": "Iron",
-      "point_cutoff": 550,
-      "players_qualified": 33320,
-      "players_qualified_change": 1380
+      "point_cutoff": 560,
+      "players_qualified": 34840,
+      "players_qualified_change": 1520
     },
     {
       "name": "Bronze",
-      "point_cutoff": 170,
-      "players_qualified": 41650,
-      "players_qualified_change": 1725
+      "point_cutoff": 150,
+      "players_qualified": 43550,
+      "players_qualified_change": 1900
     }
   ],
   "top_player": {
-    "player_name": "Geckomon",
-    "points": 6520
+    "player_name": "Mistrock",
+    "points": 7720
   }
 }

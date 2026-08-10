@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-10T13:25:34.668124+00:00",
-  "total_players": 9350,
-  "total_players_change": 3800,
+  "logged_at": "2026-08-10T13:55:33.206848+00:00",
+  "total_players": 12450,
+  "total_players_change": 3100,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 830,
-      "players_qualified": 94,
-      "players_qualified_change": 38
+      "point_cutoff": 1100,
+      "players_qualified": 125,
+      "players_qualified_change": 31
     },
     {
       "name": "Rune",
-      "point_cutoff": 760,
-      "players_qualified": 935,
-      "players_qualified_change": 380
+      "point_cutoff": 830,
+      "players_qualified": 1245,
+      "players_qualified_change": 310
     },
     {
       "name": "Adamant",
-      "point_cutoff": 660,
-      "players_qualified": 1870,
-      "players_qualified_change": 760
+      "point_cutoff": 750,
+      "players_qualified": 2490,
+      "players_qualified_change": 620
     },
     {
       "name": "Mithril",
-      "point_cutoff": 430,
-      "players_qualified": 3740,
-      "players_qualified_change": 1520
+      "point_cutoff": 500,
+      "players_qualified": 4980,
+      "players_qualified_change": 1240
     },
     {
       "name": "Steel",
-      "point_cutoff": 320,
-      "players_qualified": 5610,
-      "players_qualified_change": 2280
+      "point_cutoff": 360,
+      "players_qualified": 7470,
+      "players_qualified_change": 1860
     },
     {
       "name": "Iron",
-      "point_cutoff": 220,
-      "players_qualified": 7480,
-      "players_qualified_change": 3040
+      "point_cutoff": 240,
+      "players_qualified": 9960,
+      "players_qualified_change": 2480
     },
     {
       "name": "Bronze",
       "point_cutoff": 100,
-      "players_qualified": 9350,
-      "players_qualified_change": 3800
+      "players_qualified": 12450,
+      "players_qualified_change": 3100
     }
   ],
   "top_player": {
-    "player_name": "Fuzzy Chunks",
-    "points": 1280
+    "player_name": "Geckomon",
+    "points": 1640
   }
 }

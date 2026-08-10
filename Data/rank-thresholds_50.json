@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-10T15:25:34.447076+00:00",
+  "total_players": 19925,
+  "total_players_change": 3250,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 1700,
+      "players_qualified": 200,
+      "players_qualified_change": 33
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 1280,
+      "players_qualified": 1993,
+      "players_qualified_change": 325
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 1060,
+      "players_qualified": 3985,
+      "players_qualified_change": 650
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 780,
+      "players_qualified": 7970,
+      "players_qualified_change": 1300
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 550,
+      "players_qualified": 11955,
+      "players_qualified_change": 1950
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 370,
+      "players_qualified": 15940,
+      "players_qualified_change": 2600
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 190,
+      "players_qualified": 19925,
+      "players_qualified_change": 3250
+    }
+  ],
+  "top_player": {
+    "player_name": "okeneko gim",
+    "points": 2360
+  }
+}

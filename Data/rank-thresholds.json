@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-10T15:25:34.447076+00:00",
-  "total_players": 19925,
-  "total_players_change": 3250,
+  "logged_at": "2026-08-10T15:55:55.005501+00:00",
+  "total_players": 22725,
+  "total_players_change": 2800,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 1700,
-      "players_qualified": 200,
-      "players_qualified_change": 33
+      "point_cutoff": 1940,
+      "players_qualified": 228,
+      "players_qualified_change": 28
     },
     {
       "name": "Rune",
-      "point_cutoff": 1280,
-      "players_qualified": 1993,
-      "players_qualified_change": 325
+      "point_cutoff": 1380,
+      "players_qualified": 2273,
+      "players_qualified_change": 280
     },
     {
       "name": "Adamant",
-      "point_cutoff": 1060,
-      "players_qualified": 3985,
-      "players_qualified_change": 650
+      "point_cutoff": 1140,
+      "players_qualified": 4545,
+      "players_qualified_change": 560
     },
     {
       "name": "Mithril",
-      "point_cutoff": 780,
-      "players_qualified": 7970,
-      "players_qualified_change": 1300
+      "point_cutoff": 830,
+      "players_qualified": 9090,
+      "players_qualified_change": 1120
     },
     {
       "name": "Steel",
-      "point_cutoff": 550,
-      "players_qualified": 11955,
-      "players_qualified_change": 1950
+      "point_cutoff": 600,
+      "players_qualified": 13635,
+      "players_qualified_change": 1680
     },
     {
       "name": "Iron",
-      "point_cutoff": 370,
-      "players_qualified": 15940,
-      "players_qualified_change": 2600
+      "point_cutoff": 390,
+      "players_qualified": 18180,
+      "players_qualified_change": 2240
     },
     {
       "name": "Bronze",
-      "point_cutoff": 190,
-      "players_qualified": 19925,
-      "players_qualified_change": 3250
+      "point_cutoff": 180,
+      "players_qualified": 22725,
+      "players_qualified_change": 2800
     }
   ],
   "top_player": {
-    "player_name": "okeneko gim",
-    "points": 2360
+    "player_name": "prada",
+    "points": 2730
   }
 }

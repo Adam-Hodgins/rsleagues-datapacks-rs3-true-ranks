@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-11T04:55:47.657663+00:00",
-  "total_players": 63450,
-  "total_players_change": 850,
+  "logged_at": "2026-08-11T05:25:50.590227+00:00",
+  "total_players": 64100,
+  "total_players_change": 650,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 6000,
-      "players_qualified": 635,
-      "players_qualified_change": 9
+      "point_cutoff": 6030,
+      "players_qualified": 641,
+      "players_qualified_change": 6
     },
     {
       "name": "Rune",
-      "point_cutoff": 3760,
-      "players_qualified": 6345,
-      "players_qualified_change": 85
+      "point_cutoff": 3800,
+      "players_qualified": 6410,
+      "players_qualified_change": 65
     },
     {
       "name": "Adamant",
-      "point_cutoff": 2860,
-      "players_qualified": 12690,
-      "players_qualified_change": 170
+      "point_cutoff": 2970,
+      "players_qualified": 12820,
+      "players_qualified_change": 130
     },
     {
       "name": "Mithril",
-      "point_cutoff": 2020,
-      "players_qualified": 25380,
-      "players_qualified_change": 340
+      "point_cutoff": 2010,
+      "players_qualified": 25640,
+      "players_qualified_change": 260
     },
     {
       "name": "Steel",
-      "point_cutoff": 1300,
-      "players_qualified": 38070,
-      "players_qualified_change": 510
+      "point_cutoff": 1360,
+      "players_qualified": 38460,
+      "players_qualified_change": 390
     },
     {
       "name": "Iron",
-      "point_cutoff": 750,
-      "players_qualified": 50760,
-      "players_qualified_change": 680
+      "point_cutoff": 770,
+      "players_qualified": 51280,
+      "players_qualified_change": 520
     },
     {
       "name": "Bronze",
-      "point_cutoff": 130,
-      "players_qualified": 63450,
-      "players_qualified_change": 850
+      "point_cutoff": 120,
+      "players_qualified": 64100,
+      "players_qualified_change": 650
     }
   ],
   "top_player": {
-    "player_name": "Schokotraum",
-    "points": 12090
+    "player_name": "Harrie stijl",
+    "points": 12770
   }
 }

@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-11T03:56:12.723242+00:00",
-  "total_players": 61775,
-  "total_players_change": 375,
+  "logged_at": "2026-08-11T04:25:58.059507+00:00",
+  "total_players": 62600,
+  "total_players_change": 825,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 5690,
-      "players_qualified": 618,
-      "players_qualified_change": 4
+      "point_cutoff": 5720,
+      "players_qualified": 626,
+      "players_qualified_change": 8
     },
     {
       "name": "Rune",
-      "point_cutoff": 3660,
-      "players_qualified": 6178,
-      "players_qualified_change": 38
+      "point_cutoff": 3700,
+      "players_qualified": 6260,
+      "players_qualified_change": 82
     },
     {
       "name": "Adamant",
-      "point_cutoff": 2850,
-      "players_qualified": 12355,
-      "players_qualified_change": 75
+      "point_cutoff": 2880,
+      "players_qualified": 12520,
+      "players_qualified_change": 165
     },
     {
       "name": "Mithril",
-      "point_cutoff": 2010,
-      "players_qualified": 24710,
-      "players_qualified_change": 150
+      "point_cutoff": 2030,
+      "players_qualified": 25040,
+      "players_qualified_change": 330
     },
     {
       "name": "Steel",
-      "point_cutoff": 1290,
-      "players_qualified": 37065,
-      "players_qualified_change": 225
+      "point_cutoff": 1310,
+      "players_qualified": 37560,
+      "players_qualified_change": 495
     },
     {
       "name": "Iron",
-      "point_cutoff": 750,
-      "players_qualified": 49420,
-      "players_qualified_change": 300
+      "point_cutoff": 760,
+      "players_qualified": 50080,
+      "players_qualified_change": 660
     },
     {
       "name": "Bronze",
-      "point_cutoff": 140,
-      "players_qualified": 61775,
-      "players_qualified_change": 375
+      "point_cutoff": 100,
+      "players_qualified": 62600,
+      "players_qualified_change": 825
     }
   ],
   "top_player": {
-    "player_name": "Harrie stijl",
-    "points": 12080
+    "player_name": "Schokotraum",
+    "points": 12090
   }
 }

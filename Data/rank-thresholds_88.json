@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-11T10:26:15.366204+00:00",
+  "total_players": 68163,
+  "total_players_change": 88,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 6590,
+      "players_qualified": 682,
+      "players_qualified_change": 1
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 4160,
+      "players_qualified": 6817,
+      "players_qualified_change": 9
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 3330,
+      "players_qualified": 13633,
+      "players_qualified_change": 18
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 2270,
+      "players_qualified": 27266,
+      "players_qualified_change": 36
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 1510,
+      "players_qualified": 40898,
+      "players_qualified_change": 53
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 830,
+      "players_qualified": 54531,
+      "players_qualified_change": 71
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 68163,
+      "players_qualified_change": 88
+    }
+  ],
+  "top_player": {
+    "player_name": "Harrie stijl",
+    "points": 15000
+  }
+}

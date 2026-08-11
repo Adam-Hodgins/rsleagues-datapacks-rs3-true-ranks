@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-11T04:25:58.059507+00:00",
+  "total_players": 62600,
+  "total_players_change": 825,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 5720,
+      "players_qualified": 626,
+      "players_qualified_change": 8
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 3700,
+      "players_qualified": 6260,
+      "players_qualified_change": 82
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 2880,
+      "players_qualified": 12520,
+      "players_qualified_change": 165
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 2030,
+      "players_qualified": 25040,
+      "players_qualified_change": 330
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 1310,
+      "players_qualified": 37560,
+      "players_qualified_change": 495
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 760,
+      "players_qualified": 50080,
+      "players_qualified_change": 660
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 62600,
+      "players_qualified_change": 825
+    }
+  ],
+  "top_player": {
+    "player_name": "Schokotraum",
+    "points": 12090
+  }
+}

@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-11T00:56:12.722985+00:00",
-  "total_players": 56475,
-  "total_players_change": 1600,
+  "logged_at": "2026-08-11T01:26:15.313368+00:00",
+  "total_players": 57100,
+  "total_players_change": 625,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 4890,
-      "players_qualified": 565,
-      "players_qualified_change": 16
+      "point_cutoff": 5020,
+      "players_qualified": 571,
+      "players_qualified_change": 6
     },
     {
       "name": "Rune",
-      "point_cutoff": 3300,
-      "players_qualified": 5648,
-      "players_qualified_change": 160
+      "point_cutoff": 3400,
+      "players_qualified": 5710,
+      "players_qualified_change": 62
     },
     {
       "name": "Adamant",
-      "point_cutoff": 2590,
-      "players_qualified": 11295,
-      "players_qualified_change": 320
+      "point_cutoff": 2640,
+      "players_qualified": 11420,
+      "players_qualified_change": 125
     },
     {
       "name": "Mithril",
-      "point_cutoff": 1810,
-      "players_qualified": 22590,
-      "players_qualified_change": 640
+      "point_cutoff": 1850,
+      "players_qualified": 22840,
+      "players_qualified_change": 250
     },
     {
       "name": "Steel",
-      "point_cutoff": 1140,
-      "players_qualified": 33885,
-      "players_qualified_change": 960
+      "point_cutoff": 1170,
+      "players_qualified": 34260,
+      "players_qualified_change": 375
     },
     {
       "name": "Iron",
-      "point_cutoff": 640,
-      "players_qualified": 45180,
-      "players_qualified_change": 1280
+      "point_cutoff": 670,
+      "players_qualified": 45680,
+      "players_qualified_change": 500
     },
     {
       "name": "Bronze",
-      "point_cutoff": 100,
-      "players_qualified": 56475,
-      "players_qualified_change": 1600
+      "point_cutoff": 120,
+      "players_qualified": 57100,
+      "players_qualified_change": 625
     }
   ],
   "top_player": {
     "player_name": "Geckomon",
-    "points": 9610
+    "points": 9890
   }
 }

@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-12T09:55:39.770416+00:00",
-  "total_players": 80663,
-  "total_players_change": 0,
+  "logged_at": "2026-08-12T10:25:53.556208+00:00",
+  "total_players": 80894,
+  "total_players_change": 231,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 11260,
-      "players_qualified": 807,
-      "players_qualified_change": 0
+      "point_cutoff": 11640,
+      "players_qualified": 809,
+      "players_qualified_change": 2
     },
     {
       "name": "Rune",
-      "point_cutoff": 6420,
-      "players_qualified": 8067,
-      "players_qualified_change": 0
+      "point_cutoff": 6040,
+      "players_qualified": 8090,
+      "players_qualified_change": 23
     },
     {
       "name": "Adamant",
-      "point_cutoff": 4860,
-      "players_qualified": 16133,
-      "players_qualified_change": 0
+      "point_cutoff": 4900,
+      "players_qualified": 16179,
+      "players_qualified_change": 46
     },
     {
       "name": "Mithril",
-      "point_cutoff": 3240,
-      "players_qualified": 32266,
-      "players_qualified_change": 0
+      "point_cutoff": 3200,
+      "players_qualified": 32358,
+      "players_qualified_change": 92
     },
     {
       "name": "Steel",
-      "point_cutoff": 2110,
-      "players_qualified": 48398,
-      "players_qualified_change": 0
+      "point_cutoff": 2070,
+      "players_qualified": 48537,
+      "players_qualified_change": 139
     },
     {
       "name": "Iron",
-      "point_cutoff": 1000,
-      "players_qualified": 64531,
-      "players_qualified_change": 0
+      "point_cutoff": 1020,
+      "players_qualified": 64716,
+      "players_qualified_change": 185
     },
     {
       "name": "Bronze",
       "point_cutoff": 100,
-      "players_qualified": 80663,
-      "players_qualified_change": 0
+      "players_qualified": 80894,
+      "players_qualified_change": 231
     }
   ],
   "top_player": {
-    "player_name": "x_MLG_PURE_x",
-    "points": 24900
+    "player_name": "KiwiRs3skada",
+    "points": 25440
   }
 }

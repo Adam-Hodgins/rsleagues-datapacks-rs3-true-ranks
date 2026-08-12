@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-12T01:26:17.259448+00:00",
+  "total_players": 77300,
+  "total_players_change": 275,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 9720,
+      "players_qualified": 773,
+      "players_qualified_change": 2
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 5750,
+      "players_qualified": 7730,
+      "players_qualified_change": 27
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 4420,
+      "players_qualified": 15460,
+      "players_qualified_change": 55
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 2900,
+      "players_qualified": 30920,
+      "players_qualified_change": 110
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 1900,
+      "players_qualified": 46380,
+      "players_qualified_change": 165
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 940,
+      "players_qualified": 61840,
+      "players_qualified_change": 220
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 77300,
+      "players_qualified_change": 275
+    }
+  ],
+  "top_player": {
+    "player_name": "Dyselexic",
+    "points": 22380
+  }
+}

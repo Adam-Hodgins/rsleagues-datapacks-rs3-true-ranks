@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-12T01:26:17.259448+00:00",
-  "total_players": 77300,
-  "total_players_change": 275,
+  "logged_at": "2026-08-12T01:56:23.065476+00:00",
+  "total_players": 77600,
+  "total_players_change": 300,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 9720,
-      "players_qualified": 773,
-      "players_qualified_change": 2
+      "point_cutoff": 9840,
+      "players_qualified": 776,
+      "players_qualified_change": 3
     },
     {
       "name": "Rune",
-      "point_cutoff": 5750,
-      "players_qualified": 7730,
-      "players_qualified_change": 27
+      "point_cutoff": 5820,
+      "players_qualified": 7760,
+      "players_qualified_change": 30
     },
     {
       "name": "Adamant",
-      "point_cutoff": 4420,
-      "players_qualified": 15460,
-      "players_qualified_change": 55
+      "point_cutoff": 4450,
+      "players_qualified": 15520,
+      "players_qualified_change": 60
     },
     {
       "name": "Mithril",
-      "point_cutoff": 2900,
-      "players_qualified": 30920,
-      "players_qualified_change": 110
+      "point_cutoff": 2920,
+      "players_qualified": 31040,
+      "players_qualified_change": 120
     },
     {
       "name": "Steel",
-      "point_cutoff": 1900,
-      "players_qualified": 46380,
-      "players_qualified_change": 165
+      "point_cutoff": 1950,
+      "players_qualified": 46560,
+      "players_qualified_change": 180
     },
     {
       "name": "Iron",
-      "point_cutoff": 940,
-      "players_qualified": 61840,
-      "players_qualified_change": 220
+      "point_cutoff": 950,
+      "players_qualified": 62080,
+      "players_qualified_change": 240
     },
     {
       "name": "Bronze",
       "point_cutoff": 100,
-      "players_qualified": 77300,
-      "players_qualified_change": 275
+      "players_qualified": 77600,
+      "players_qualified_change": 300
     }
   ],
   "top_player": {
-    "player_name": "Dyselexic",
-    "points": 22380
+    "player_name": "LeaguesRDumb",
+    "points": 22530
   }
 }

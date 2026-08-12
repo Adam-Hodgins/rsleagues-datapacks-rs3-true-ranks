@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-12T03:26:11.854378+00:00",
+  "total_players": 78450,
+  "total_players_change": 275,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 10050,
+      "players_qualified": 785,
+      "players_qualified_change": 3
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 6020,
+      "players_qualified": 7845,
+      "players_qualified_change": 27
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 4550,
+      "players_qualified": 15690,
+      "players_qualified_change": 55
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 3000,
+      "players_qualified": 31380,
+      "players_qualified_change": 110
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 1860,
+      "players_qualified": 47070,
+      "players_qualified_change": 165
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 970,
+      "players_qualified": 62760,
+      "players_qualified_change": 220
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 78450,
+      "players_qualified_change": 275
+    }
+  ],
+  "top_player": {
+    "player_name": "LeaguesRDumb",
+    "points": 22530
+  }
+}

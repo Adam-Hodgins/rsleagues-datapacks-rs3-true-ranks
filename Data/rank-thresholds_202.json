@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-13T18:56:05.346222+00:00",
+  "total_players": 89139,
+  "total_players_change": 89,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 18980,
+      "players_qualified": 892,
+      "players_qualified_change": 1
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 9510,
+      "players_qualified": 8914,
+      "players_qualified_change": 9
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 6860,
+      "players_qualified": 17828,
+      "players_qualified_change": 18
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 4280,
+      "players_qualified": 35656,
+      "players_qualified_change": 36
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 2490,
+      "players_qualified": 53484,
+      "players_qualified_change": 54
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 1150,
+      "players_qualified": 71312,
+      "players_qualified_change": 72
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 89139,
+      "players_qualified_change": 89
+    }
+  ],
+  "top_player": {
+    "player_name": "Perfectuxd",
+    "points": 37900
+  }
+}

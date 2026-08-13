@@ -1,53 +1,53 @@
 {
-  "logged_at": "2026-08-13T13:25:48.047365+00:00",
-  "total_players": 88175,
-  "total_players_change": 66,
+  "logged_at": "2026-08-13T13:57:11.420624+00:00",
+  "total_players": 88225,
+  "total_players_change": 50,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 17390,
-      "players_qualified": 882,
-      "players_qualified_change": 0
+      "point_cutoff": 17650,
+      "players_qualified": 883,
+      "players_qualified_change": 1
     },
     {
       "name": "Rune",
-      "point_cutoff": 8930,
-      "players_qualified": 8818,
-      "players_qualified_change": 7
+      "point_cutoff": 9010,
+      "players_qualified": 8823,
+      "players_qualified_change": 5
     },
     {
       "name": "Adamant",
-      "point_cutoff": 5750,
-      "players_qualified": 17635,
-      "players_qualified_change": 13
+      "point_cutoff": 6580,
+      "players_qualified": 17645,
+      "players_qualified_change": 10
     },
     {
       "name": "Mithril",
-      "point_cutoff": 4010,
-      "players_qualified": 35270,
-      "players_qualified_change": 26
+      "point_cutoff": 4150,
+      "players_qualified": 35290,
+      "players_qualified_change": 20
     },
     {
       "name": "Steel",
-      "point_cutoff": 2400,
-      "players_qualified": 52905,
-      "players_qualified_change": 39
+      "point_cutoff": 2480,
+      "players_qualified": 52935,
+      "players_qualified_change": 30
     },
     {
       "name": "Iron",
-      "point_cutoff": 1130,
-      "players_qualified": 70540,
-      "players_qualified_change": 52
+      "point_cutoff": 1140,
+      "players_qualified": 70580,
+      "players_qualified_change": 40
     },
     {
       "name": "Bronze",
       "point_cutoff": 100,
-      "players_qualified": 88175,
-      "players_qualified_change": 66
+      "players_qualified": 88225,
+      "players_qualified_change": 50
     }
   ],
   "top_player": {
-    "player_name": "KiwiRs3skada",
-    "points": 35200
+    "player_name": "Stormy",
+    "points": 37730
   }
 }

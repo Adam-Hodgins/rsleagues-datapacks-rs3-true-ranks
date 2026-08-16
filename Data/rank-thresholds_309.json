@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-16T00:56:25.438938+00:00",
+  "total_players": 98825,
+  "total_players_change": 125,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 28650,
+      "players_qualified": 989,
+      "players_qualified_change": 2
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 14890,
+      "players_qualified": 9883,
+      "players_qualified_change": 13
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 10240,
+      "players_qualified": 19765,
+      "players_qualified_change": 25
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 5820,
+      "players_qualified": 39530,
+      "players_qualified_change": 50
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 3200,
+      "players_qualified": 59295,
+      "players_qualified_change": 75
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 1280,
+      "players_qualified": 79060,
+      "players_qualified_change": 100
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 98825,
+      "players_qualified_change": 125
+    }
+  ],
+  "top_player": {
+    "player_name": "Stormy",
+    "points": 54030
+  }
+}

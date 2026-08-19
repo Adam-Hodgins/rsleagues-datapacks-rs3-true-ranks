@@ -1,0 +1,53 @@
+{
+  "logged_at": "2026-08-19T17:26:07.557930+00:00",
+  "total_players": 108625,
+  "total_players_change": 36,
+  "ranks": [
+    {
+      "name": "Dragon",
+      "point_cutoff": 38870,
+      "players_qualified": 1087,
+      "players_qualified_change": 1
+    },
+    {
+      "name": "Rune",
+      "point_cutoff": 23370,
+      "players_qualified": 10863,
+      "players_qualified_change": 4
+    },
+    {
+      "name": "Adamant",
+      "point_cutoff": 15420,
+      "players_qualified": 21725,
+      "players_qualified_change": 7
+    },
+    {
+      "name": "Mithril",
+      "point_cutoff": 7580,
+      "players_qualified": 43450,
+      "players_qualified_change": 14
+    },
+    {
+      "name": "Steel",
+      "point_cutoff": 3930,
+      "players_qualified": 65175,
+      "players_qualified_change": 21
+    },
+    {
+      "name": "Iron",
+      "point_cutoff": 1380,
+      "players_qualified": 86900,
+      "players_qualified_change": 28
+    },
+    {
+      "name": "Bronze",
+      "point_cutoff": 100,
+      "players_qualified": 108625,
+      "players_qualified_change": 36
+    }
+  ],
+  "top_player": {
+    "player_name": "Keiron",
+    "points": 70030
+  }
+}

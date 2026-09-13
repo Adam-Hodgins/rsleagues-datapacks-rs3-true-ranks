@@ -5,7 +5,7 @@
   "league_start": "2026-08-10T00:00:00+00:00",
   "timezone_note": "league_day is floor((logged_at - league_start) / 86400) + 1",
   "latest": "rank-thresholds.json",
-  "updated_at": "2026-09-13T11:27:52.737505+00:00",
+  "updated_at": "2026-09-13T11:57:46.505925+00:00",
   "snapshots": [
     {
       "id": "20260818T022627Z",
@@ -6316,6 +6316,11 @@
       "id": "20260913T112752Z",
       "logged_at": "2026-09-13T11:27:52.737505+00:00",
       "file": "history/snapshots/20260913T112752Z.json"
+    },
+    {
+      "id": "20260913T115746Z",
+      "logged_at": "2026-09-13T11:57:46.505925+00:00",
+      "file": "history/snapshots/20260913T115746Z.json"
     }
   ]
 }

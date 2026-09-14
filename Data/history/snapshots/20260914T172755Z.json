@@ -1,53 +1,47 @@
 {
+  "schema_version": 1,
+  "series": "true-rank-cutoffs",
   "logged_at": "2026-09-14T17:27:55.348034+00:00",
   "total_players": 126645,
-  "total_players_change": 4,
   "ranks": [
     {
       "name": "Dragon",
       "point_cutoff": 59550,
-      "players_qualified": 1267,
-      "players_qualified_change": 0
+      "players_qualified": 1267
     },
     {
       "name": "Rune",
       "point_cutoff": 48000,
-      "players_qualified": 12665,
-      "players_qualified_change": 0
+      "players_qualified": 12665
     },
     {
       "name": "Adamant",
       "point_cutoff": 29950,
-      "players_qualified": 25329,
-      "players_qualified_change": 0
+      "players_qualified": 25329
     },
     {
       "name": "Mithril",
       "point_cutoff": 15600,
-      "players_qualified": 50658,
-      "players_qualified_change": 1
+      "players_qualified": 50658
     },
     {
       "name": "Steel",
       "point_cutoff": 5220,
-      "players_qualified": 75987,
-      "players_qualified_change": 2
+      "players_qualified": 75987
     },
     {
       "name": "Iron",
       "point_cutoff": 1410,
-      "players_qualified": 101316,
-      "players_qualified_change": 3
+      "players_qualified": 101316
     },
     {
       "name": "Bronze",
       "point_cutoff": 100,
-      "players_qualified": 126645,
-      "players_qualified_change": 4
+      "players_qualified": 126645
     }
   ],
   "top_player": {
-    "player_name": "unseat67",
+    "name": "unseat67",
     "points": 78670
   }
 }

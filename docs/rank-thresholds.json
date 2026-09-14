@@ -1,11 +1,11 @@
 {
-  "logged_at": "2026-09-14T18:27:57.965368+00:00",
+  "logged_at": "2026-09-14T18:58:05.156472+00:00",
   "total_players": 126650,
   "total_players_change": 0,
   "ranks": [
     {
       "name": "Dragon",
-      "point_cutoff": 59630,
+      "point_cutoff": 59660,
       "players_qualified": 1267,
       "players_qualified_change": 0
     },
@@ -17,7 +17,7 @@
     },
     {
       "name": "Adamant",
-      "point_cutoff": 29950,
+      "point_cutoff": 29960,
       "players_qualified": 25330,
       "players_qualified_change": 0
     },

@@ -1,53 +1,47 @@
 {
+  "schema_version": 1,
+  "series": "true-rank-cutoffs",
   "logged_at": "2026-09-16T13:27:51.801688+00:00",
   "total_players": 126893,
-  "total_players_change": 3,
   "ranks": [
     {
       "name": "Dragon",
       "point_cutoff": 60040,
-      "players_qualified": 1269,
-      "players_qualified_change": 0
+      "players_qualified": 1269
     },
     {
       "name": "Rune",
       "point_cutoff": 48010,
-      "players_qualified": 12690,
-      "players_qualified_change": 1
+      "players_qualified": 12690
     },
     {
       "name": "Adamant",
       "point_cutoff": 30280,
-      "players_qualified": 25379,
-      "players_qualified_change": 1
+      "players_qualified": 25379
     },
     {
       "name": "Mithril",
       "point_cutoff": 15820,
-      "players_qualified": 50758,
-      "players_qualified_change": 2
+      "players_qualified": 50758
     },
     {
       "name": "Steel",
       "point_cutoff": 5230,
-      "players_qualified": 76136,
-      "players_qualified_change": 2
+      "players_qualified": 76136
     },
     {
       "name": "Iron",
       "point_cutoff": 1410,
-      "players_qualified": 101515,
-      "players_qualified_change": 3
+      "players_qualified": 101515
     },
     {
       "name": "Bronze",
       "point_cutoff": 100,
-      "players_qualified": 126893,
-      "players_qualified_change": 3
+      "players_qualified": 126893
     }
   ],
   "top_player": {
-    "player_name": "Kebap Lover",
+    "name": "Kebap Lover",
     "points": 78700
   }
 }
